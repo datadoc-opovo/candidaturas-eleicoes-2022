@@ -1,0 +1,28 @@
+UF,Estado,Total,"('', 'percentual_populacao_Indígena')",Percentual de candidatos indígenas 2014,Percentual de candidatos indígenas 2018,Percentual de candidatos indígenas 2022,rep_2014_maior,rep_2018_maior,rep_2022_maior
+RO,Rondônia,1562408,0.87,0.43,0.39,0.82,False,False,False
+AC,Acre,733558,2.14,0.52,0.92,1.89,False,False,False
+AM,Amazonas,3483986,4.8,0.89,1.63,2.97,False,False,False
+RR,Roraima,450478,11.18,1.44,3.22,4.88,False,False,False
+PA,Pará,7581052,0.5,0.61,0.74,0.3,True,True,False
+AP,Amapá,669525,1.1,0.65,0.35,0.75,False,False,False
+TO,Tocantins,1383445,0.93,0.32,0.31,0.79,False,False,False
+MA,Maranhão,6574789,0.52,0.0,0.43,0.43,False,False,False
+PI,Piauí,3118360,0.11,0.6,0.25,0.71,True,True,True
+CE,Ceará,8452381,0.24,0.4,1.28,0.62,True,True,True
+RN,Rio Grande do Norte,3168027,0.09,0.29,0.21,0.36,True,True,True
+PB,Paraíba,3766529,0.52,0.0,0.19,0.41,False,False,False
+PE,Pernambuco,8796448,0.61,0.46,0.4,0.73,False,False,True
+AL,Alagoas,3120495,0.44,0.26,0.79,0.21,False,True,False
+SE,Sergipe,2068017,0.26,0.0,0.44,0.59,False,True,True
+BA,Bahia,14016906,0.4,0.81,0.47,0.31,True,True,False
+MG,Minas Gerais,19597330,0.16,0.0,0.09,0.28,False,False,True
+ES,Espírito Santo,3514951,0.27,0.47,0.38,0.39,True,True,True
+RJ,Rio de Janeiro,15989929,0.1,0.11,0.18,0.37,True,True,True
+SP,São Paulo,41262199,0.11,0.2,0.23,0.37,True,True,True
+PR,Paraná,10444526,0.25,0.19,0.08,0.45,False,False,True
+SC,Santa Catarina,6248436,0.26,0.0,0.55,0.41,False,True,True
+RS,Rio Grande do Sul,10693929,0.31,0.2,0.24,0.5,False,False,True
+MS,Mato Grosso do Sul,2449024,2.94,1.15,1.57,1.88,False,False,False
+MT,Mato Grosso,3035122,1.42,0.79,0.39,0.8,False,False,False
+GO,Goiás,6003788,0.13,0.36,0.0,0.08,True,False,False
+DF,Distrito Federal,2570160,0.28,0.18,0.36,0.35,False,True,True
